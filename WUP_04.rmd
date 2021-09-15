@@ -71,7 +71,8 @@ par(mar = c(3, 15, 2, 2))
 plot(TukeyHSD(model1, conf.level=.95), las=2)
 ```
 
-  This shows that high school and graduate are different from each other, and that LT high school and graduate are different as well.
+  This shows that high school and graduate are different from each other, and that LT high school and graduate are different as well. We can see that LT high school-graduate and high school-graduate do no t hit the "0" line.
+  
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
