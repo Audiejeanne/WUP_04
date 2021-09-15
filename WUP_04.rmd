@@ -76,3 +76,5 @@ plot(TukeyHSD(model1, conf.level=.95), las=2)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+  In this boxplot we discussed how individuals with a higher degree of education, score  higher WORDSUM scores than those individuals in the LT High School and High School category. We established that individuals that had a college degree had a mean value of 9 or more, while the LT High School and High School had a mean value of 8 or less. We found that our P value was so small 0.00236, that the NULL hypothesis was not true, therefore we rejected the NULL hypothesis. Using the TukeyHSD model we were able to elaborate further at a 95% confidence level LT High School-graduate and High School-graduate categories did not reach the "0" mark. In conclusion, these two categories were different. 
